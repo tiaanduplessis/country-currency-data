@@ -552,6 +552,12 @@
     "symbol": "₨"
   },
   {
+    "country": "Swaziland",
+    "name": " Swazi Lilangen",
+    "code": "SZL",
+    "symbol": "L"
+  },
+  {
     "country": "Sweden",
     "name": " Krona",
     "code": "SEK",
@@ -653,7 +659,7 @@
     "code": "YER",
     "symbol": "﷼"
   },
-   {
+  {
     "country": "Zambia",
     "name": " Zambian kwacha",
     "code": "ZMK",
