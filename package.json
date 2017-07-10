@@ -1,6 +1,6 @@
 {
   "name": "country-currency-data",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Data about currencies of countries",
   "license": "MIT",
   "repository": {
@@ -12,7 +12,9 @@
   "main": "dist/country-currency-data.js",
   "browser": "dist/country-currency-data.js",
   "jsnext:main": "dist/country-currency-data.es.js",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "jest",
     "lint": "standard 'src/**/*.js'",
@@ -27,7 +29,11 @@
   },
   "author": "tiaanduplessis <tiaanduplessis@hotmail.com>",
   "babel": {
-    "presets": [["env"]]
+    "presets": [
+      [
+        "env"
+      ]
+    ]
   },
   "devDependencies": {
     "jest": "^20.0.1",
