@@ -55,6 +55,8 @@
 
 ## About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/country-currency-data.svg)](https://greenkeeper.io/)
+
 Array of currency information from different countries. Scraped from [XE](http://www.xe.com/symbols.php).
 
 ## Install
